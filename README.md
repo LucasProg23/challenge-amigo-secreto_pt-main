@@ -20,6 +20,6 @@ Remover o nome sorteado para evitar repetições.
 
 HTML: Para estruturação da página.
 
-CSS: Para estilização (caso tenha um arquivo de estilo).
+CSS: Para estilização.
 
 JavaScript: Para a interatividade e lógica do sorteio.
